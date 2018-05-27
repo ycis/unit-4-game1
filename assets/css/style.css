@@ -1,0 +1,36 @@
+
+body {
+    background-image: url('../../assets/images/bg-3-full.jpg');
+    background-repeat: no-repeat, repeat;
+    background-color: blue;
+} 
+
+#titleText {
+    background-color: orange;
+    background-repeat: no-repeat, repeat;
+    color: white;
+    text-align: center;
+}
+
+#instructions {
+    color:green;
+    background-color:blanchedalmond;
+}
+
+#game-status-text {
+    background-color: lightblue;
+}
+
+#target-score {
+    background-color: lightgreen;
+    color: purple;
+}
+
+.player-score {
+    background-color: cadetblue;
+    color: white;
+}
+
+.crystal {
+    background-color: white;
+}
